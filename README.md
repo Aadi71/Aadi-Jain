@@ -1,7 +1,6 @@
 # Portfolio Website
 
 (https://aadi71.github.io/Aadi-Jain/) 
-## Admin
 
 [![Relative date](https://img.shields.io/badge/started-April2022-brightgreen)](https://github.com/Aadi71/) 
 
