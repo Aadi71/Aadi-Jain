@@ -9,7 +9,7 @@
 [![Relative date](https://img.shields.io/badge/started-April-brightgreen)](https://github.com/Aadi71/) 
 <!-- [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/Aadi71/) -->
 
-[![LinkedIn followers](https://img.shields.io/linkedin/followers/aadijain7102.svg?label=Follow%20@aadijain7102&style=social)](https://www.linkedin.com/in/aadijain7102/)
+[![LinkedIn followers](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadijain7102/)
 | **[Aadi Jain](https://www.linkedin.com/in/aadijain7102/)**  |
 
 [![GitHub followers](https://img.shields.io/github/followers/Aadi71.svg?label=Follow%20@Aadi71&style=social)](https://github.com/Aadi71/) [![Twitter Follow](https://img.shields.io/twitter/follow/Aadi_Jain_7?style=social)](https://twitter.com/Aadi_Jain_7) 
