@@ -101,9 +101,13 @@ img {
 /*===== LAYOUT =====*/
 .bd-grid {
   max-width: 1024px;
-  display: grid;
+  display: grid;    
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
+}
+
+.bd-bottom{
+  margin-bottom: 30px;
 }
 
 .l-header {
@@ -235,7 +239,7 @@ img {
 }
 
 .home__blob-img {
-  width: 900px;
+  width: 500px;
 }
 
 /*BUTTONS*/
@@ -345,6 +349,7 @@ img {
 
 .skills__img {
   border-radius: .5rem;
+  width: 800px;
 }
 
 /* ===== EXPERIENCE =====*/
@@ -472,7 +477,7 @@ img {
     width: 360px;
     padding-top: 2rem;
   }
-  .contact__container {
+  .contact__container { 
     justify-items: center;
   }
 }
