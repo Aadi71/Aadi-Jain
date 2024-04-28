@@ -1,6 +1,6 @@
 # Portfolio Website
 
-(https://aadi71.github.io/Aadi-Jain/) 
+Check the website here: https://aadi71.github.io/Aadi-Jain/
 
 [![Relative date](https://img.shields.io/badge/LastUpdated-July2022-brightgreen)](https://github.com/Aadi71/) 
 
